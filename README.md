@@ -1,5 +1,7 @@
 # jBPM
 Android app for monitor Blood Pressure
 
-h3. Screens
-[^screens/add.png]
+## Screens
+![Add](screens/add.png)
+![Analytics](screens/analytics.png)
+![Settings](screens/settings.png)
